@@ -23,5 +23,16 @@
             "trait_type": "Features",
             "value": "Captured by robots, cyborg enhancements, alien origin"
         }
-    ]
+    ],
+    "collection": {
+        "name": "Aliens Vs Robots",
+        "description": "In the vast, uncharted regions of space, an epic struggle unfolds between two powerful factions: the mysterious and resilient Alien species, and the cold, relentless Robot empire. This unique NFT collection brings to life the intense rivalry of 'Aliens Vs Robots,' where each NFT character tells a story of survival, evolution, and warfare. From legendary shadow creatures that move silently in the void to mighty, cybernetically-enhanced aliens forced into servitude, these digital assets represent a clash of organic life and mechanical precision.",
+        "lore": "The Aliens, born of cosmic mysteries and natural power, have roamed the universe freely for eons. But as they ventured into new realms, they encountered the Robots — a highly advanced, soulless machine race set on domination and assimilation. Now, in an era where organic meets synthetic, every NFT capturesthe essence of a warrior, a survivalist, or a rogue entity in this endless intergalactic conflict. Will the Aliens reclaim their freedom and restore balance, or will the Robots expand their empire and eradicate all organic resistance?",
+        "features": [
+            "Unique Traits: Each NFT has distinct traits, powers, and vulnerabilities that capture the essence of either Alien or Robot.",
+            "Immersive Backstory: Every character holds a piece of the greater narrative, from legendary commanders to battle-hardened bots.",
+            "Detailed Attributes: Delve into each character's origin, power source, and special abilities, with details crafted to appeal to collectors and sci-fi enthusiasts alike."
+        ],
+        "collection_highlights": "Aliens Vs Robots is more than a collection — it’s a saga. Owners of these NFTs become part of an exclusive community exploring the intricacies of a war that spans galaxies, where lore, art, and imagination collide. Join the battle and claim your side in the eternal conflict of Aliens versus Robots!"
+    }
 }
