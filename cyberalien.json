@@ -1,0 +1,27 @@
+{
+    "name": "Cyber-Spliced Alien 3000",
+    "description": "Once a free alien, now a corrupted cyborg enslaved by robots. Cyber-Spliced Alien 3000 represents the fusion of organic life with ruthless machinery.",
+    "image": "https://ipfs.io/ipns/k51qzi5uqu5dgxzu2d4zhx5dads3ymhahm6eqbu2p3akfz2ozh70ilg69egadi",
+    "attributes": [
+        {
+            "trait_type": "Rarity",
+            "value": "Mythical"
+        },
+        {
+            "trait_type": "Origin",
+            "value": "Alien"
+        },
+        {
+            "trait_type": "Transformation",
+            "value": "Cybernetic"
+        },
+        {
+            "trait_type": "Status",
+            "value": "Corrupted"
+        },
+        {
+            "trait_type": "Features",
+            "value": "Captured by robots, cyborg enhancements, alien origin"
+        }
+    ]
+}

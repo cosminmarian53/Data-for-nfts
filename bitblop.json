@@ -1,0 +1,19 @@
+{
+    "name": "BitBlop",
+    "description": "A one-eyed cosmic creature with antler-like appendages, peering into the mysteries of the universe.",
+    "image": "https://ipfs.io/ipns/k51qzi5uqu5dl2ingu7vlbkz2e0bf6353zxnitmkdsrf4kjdzl2eojfoabgyxo",
+    "attributes": [
+        {
+            "trait_type": "Rarity",
+            "value": "Rare"
+        },
+        {
+            "trait_type": "Power",
+            "value": "Visionary"
+        },
+        {
+            "trait_type": "Habitat",
+            "value": "Outer Space"
+        }
+    ]
+}
